@@ -12,6 +12,10 @@ docker-compose up -d
 docker-compose exec app bash
 ```
 
-# トラウブルシューティング
+# トラブルシューティング
 
 - 随時追加予定
+
+# ドキュメント
+
+- 追加予定
